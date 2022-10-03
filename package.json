@@ -1,0 +1,12 @@
+{
+  "name": "livekit-nodenext-issue",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "livekit-client": "^1.4.1",
+    "typescript": "^4.8.4"
+  },
+  "type": "module"
+}
